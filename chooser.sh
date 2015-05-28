@@ -21,7 +21,7 @@ do
 
 	# Custom start files. 
 
-######### I recommend removing these options and replacing them with more suitbale ones for your own system. I have left theme here as an example
+######### I recommend removing these options and replacing them with more suitbale ones for your own system. I have left them here as an example
 #        "TeX Development Environment")
 #		screen -c /home/$USER/bin/screen-conf/TeX 
 #            ;;
